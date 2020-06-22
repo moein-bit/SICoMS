@@ -1,0 +1,12 @@
+/**{
+    border: 1px red solid;
+}*/
+
+body {
+    margin-top: 100px;
+}
+
+#carouselExampleSlidesOnly img{
+    /*border: 2px red solid;*/
+    height: 500px;
+}
