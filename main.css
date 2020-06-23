@@ -10,3 +10,7 @@ body {
     /*border: 2px red solid;*/
     height: 500px;
 }
+#social-media {
+    height: 30px;
+    width: 30px;
+}
